@@ -21,7 +21,7 @@ InboxGeniusAI is an AI-powered email management tool designed to streamline your
 - **Backend:** Node.js with Express
 - **AI:** Python (Natural Language Processing, Machine Learning)
 - **GraphQL:** For flexible data queries and management
-- **Email APIs:** Gmail API, Outlook API
+- **Email APIs:** Gmail API
 
 ## Setup
 
